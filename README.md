@@ -3,6 +3,7 @@ Foi criado o repositório no GitHub para a entrega do trabalho de Progamação D
 
 * Integrantes:
   - 802.388 Eduardo Pires Bianchi
+  - 802.387 Matheus Lucas Gonçalves 
 
 O tema é o Sistema de Gestão para uma Clínica Odontológica
 
